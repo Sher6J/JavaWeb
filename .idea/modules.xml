@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Weblearning.iml" filepath="$PROJECT_DIR$/Weblearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case/case.iml" filepath="$PROJECT_DIR$/case/case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie&amp;session/cookie&amp;session.iml" filepath="$PROJECT_DIR$/cookie&amp;session/cookie&amp;session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/el&amp;jstl/el&amp;jstl.iml" filepath="$PROJECT_DIR$/el&amp;jstl/el&amp;jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/html.iml" filepath="$PROJECT_DIR$/html/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript高级/javascript高级.iml" filepath="$PROJECT_DIR$/javascript高级/javascript高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/responce/responce.iml" filepath="$PROJECT_DIR$/responce/responce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/test_login.iml" filepath="$PROJECT_DIR$/test_login/test_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/tomcat/tomcat.iml" />
+    </modules>
+  </component>
+</project>

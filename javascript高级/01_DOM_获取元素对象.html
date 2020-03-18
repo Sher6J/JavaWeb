@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //通过id获取元素对象
+        var light = document.getElementById("light");
+        alert(light);//弹不出来！！因为先执行script,对象还没有加载出来
+    </script>
+</head>
+<body>
+
+    <img id="light" src="img/off.gif">
+    <h1 id="title">阿里巴巴</h1>
+
+    <script>
+        /*//通过id获取元素对象
+        var light = document.getElementById("light");
+        alert("换图片");//可以弹出！
+        light.src = "img/on.gif";*/
+
+        var title = document.getElementById("title");
+        alert("换内容！")
+        title.innerHTML = "埃里巴巴";
+    </script>
+</body>
+</html>

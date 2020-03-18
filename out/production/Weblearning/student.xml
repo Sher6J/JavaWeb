@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+	<student number="0001">
+		<name id="6j">
+			<xing>张</xing>
+			<ming>三</ming>
+		</name>
+
+		<age>18</age>
+		<sex>male</sex>
+	</student>
+	<student number="0002">
+		<name>jack</name>
+		<age>18</age>
+		<sex>female</sex>
+	</student>
+	
+</students>

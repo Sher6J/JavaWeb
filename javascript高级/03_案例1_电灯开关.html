@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>点灯开关</title>
+</head>
+<body>
+
+<img id="light" src="img/off.gif">
+
+<script>
+    /*
+        1.获取图片对象
+        2.绑定单机事件
+        3.每次点击就切换图片
+     */
+    //1.获取图片对象
+    var light = document.getElementById("light");
+
+    var flag = false; //代表灯是灭的
+    //2.绑定
+    light.onclick = function () {
+        if (flag) {
+            light.src = "img/on.gif"
+            flag = false;
+        } else {
+            light.src = "img/off.gif"
+            flag = true;
+        }
+    }
+</script>
+
+</body>
+</html>
